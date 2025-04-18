@@ -1,0 +1,11 @@
+Var1	Freq
+black	2833
+cyan	377
+greenyellow	302
+grey	6345
+lightcyan	119
+pink	1488
+purple	302
+salmon	200
+tan	263
+turquoise	1607
